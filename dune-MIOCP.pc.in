@@ -9,7 +9,6 @@ DEPENDENCIES=@REQUIRES@
 Name: @PACKAGE_NAME@
 Version: @VERSION@
 Description: dune-MIOCP module
-URL: www.mathematik.tu-dortmund.de/lsv/codes/switch.tar.gz
 Requires: dune-pdelab dune-uggrid
 Libs: -L${libdir}
 Cflags: -I${includedir}
