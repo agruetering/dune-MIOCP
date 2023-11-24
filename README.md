@@ -34,6 +34,7 @@ To separately configure and build all modules run the commands
 
 If you want to compile only a specific DUNE module X, then run
     ./dune-common/bin/dunecontroll --only=X all 
+    
 If you want to compile a specific DUNE module X and the modules it depends on, you must run 
     ./dune-common/bin/dunecontroll --module=X all 
 
@@ -41,12 +42,15 @@ If you'll have to provide additional information to dunecontrol
 (e.g., compilers, configure options) and/or make options, the most convenient way is to use options files, 
 which specify the options via the variable
     CMAKE_FLAGS=<flags>
+    
 An example of an option file example.opts is
     CMAKE_FLAGS=" -DCMAKE_CXX_COMPILER=g++-7 -DCMAKE_INSTALL_PREFIX='/install/path' -DCMAKE_CXX_FLAGS='-Wall -pedantic' "
+
 which
   * uses a specific compiler,
   * installs the files to a custom directory, default is /usr/local/bin and 
-  * uses specific compiler flags. 
+  * uses specific compiler flags.
+  * 
 You can pass the opts file to dunecontrol via the --opts option, e.g.,
     ./dune-common/bin/dunecontrol --opts=example.opts all
 
