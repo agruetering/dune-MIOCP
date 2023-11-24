@@ -1,0 +1,12 @@
+################################
+# Dune module information file #
+################################
+
+# Name of the module
+Module: dune-MIOCP
+Version: 1.0
+Maintainer: alexandra.gruetering@math.tu-dortmund.de
+# Required build dependencies
+Depends: dune-pdelab dune-uggrid
+# Optional build dependencies
+#Suggests:
