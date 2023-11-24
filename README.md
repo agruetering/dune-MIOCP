@@ -58,12 +58,21 @@ Links
 -----
 
  [1]: C. Buchheim, A. Grütering, and C. Meyer, Parabolic optimal control problems with combinatorial switching constraints – Part I: Convex relaxations, arXiV preprint arXiv:2203.07121 (2022)
+
  [2]: C. Buchheim, A. Grütering, and C. Meyer, Parabolic optimal control problems with combinatorial switching constraints – Part II: Outer approximation algorithm, arXiV preprint arXiv:2204.07008 (2022)
+ 
  [3]: http://www.dune-project.org
+ 
  [4]: https://www.dune-project.org/groups/core
+ 
  [5]: https://www.dune-project.org/modules/dune-pdelab
+ 
  [6]: https://www.dune-project.org/groups/extension
+ 
  [7]: https://www.dune-project.org/modules/dune-uggrid
+ 
  [8]: https://www.dune-project.org/doc/installation
+ 
  [9]: https://www.gurobi.com
+ 
  [10]: https://www.gurobi.com/documentation/quickstart.html
