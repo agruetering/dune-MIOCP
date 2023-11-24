@@ -1,0 +1,2319 @@
+Gurobi 9.1.2 (linux64) logging started Thu Mar  3 13:09:12 2022
+
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9801 rows, 9881 columns and 100521 nonzeros
+Model fingerprint: 0x0d53653c
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 3321 rows and 3321 columns
+Presolve time: 0.31s
+Presolved: 6480 rows, 6560 columns, 85503 nonzeros
+Presolved model has 62383 quadratic objective terms
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.3470687e+01   0.000000e+00   3.096298e+02      0s
+    5479    1.8196862e+01   0.000000e+00   2.643682e+02      5s
+    7051    1.0408071e+01   0.000000e+00   1.666739e+02     10s
+    8339    7.0479020e+00   0.000000e+00   7.461533e+02     15s
+    9627    7.0479020e+00   0.000000e+00   1.568678e+04     20s
+   10915    7.0479020e+00   0.000000e+00   4.306573e+05     26s
+   11835    5.6485304e+00   0.000000e+00   1.187932e+06     30s
+   12755    2.7859644e+00   0.000000e+00   2.808719e+01     35s
+   13029    2.0923406e+00   0.000000e+00   0.000000e+00     39s
+
+Solved in 13029 iterations and 39.42 seconds
+Optimal objective  2.092340593e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9802 rows, 9881 columns and 100530 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.0923406e+00   0.000000e+00   0.000000e+00      1s
+      16    2.1766648e+00   0.000000e+00   0.000000e+00      2s
+
+Solved in 16 iterations and 1.88 seconds
+Optimal objective  2.176664758e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9803 rows, 9881 columns and 100547 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.1766648e+00   0.000000e+00   0.000000e+00      1s
+      14    2.3342160e+00   0.000000e+00   0.000000e+00      2s
+
+Solved in 14 iterations and 1.85 seconds
+Optimal objective  2.334215983e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9804 rows, 9881 columns and 100564 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.3342160e+00   0.000000e+00   0.000000e+00      1s
+      13    2.4876969e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 13 iterations and 2.97 seconds
+Optimal objective  2.487696947e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9805 rows, 9881 columns and 100585 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.4876969e+00   0.000000e+00   0.000000e+00      2s
+      10    2.5672811e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 10 iterations and 3.01 seconds
+Optimal objective  2.567281055e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9806 rows, 9881 columns and 100604 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.5672811e+00   0.000000e+00   0.000000e+00      2s
+       7    2.6049416e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 7 iterations and 3.05 seconds
+Optimal objective  2.604941644e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9807 rows, 9881 columns and 100625 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.6049416e+00   0.000000e+00   0.000000e+00      2s
+      13    2.7399190e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 13 iterations and 3.21 seconds
+Optimal objective  2.739919014e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9808 rows, 9881 columns and 100650 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.7399190e+00   0.000000e+00   0.000000e+00      2s
+       5    2.7981474e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 5 iterations and 3.57 seconds
+Optimal objective  2.798147422e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9809 rows, 9881 columns and 100663 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.7981474e+00   0.000000e+00   0.000000e+00      3s
+      16    2.9200487e+00   0.000000e+00   0.000000e+00      5s
+
+Solved in 16 iterations and 4.67 seconds
+Optimal objective  2.920048658e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9810 rows, 9881 columns and 100688 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.9200487e+00   0.000000e+00   0.000000e+00      3s
+      16    3.0322214e+00   0.000000e+00   0.000000e+00      5s
+
+Solved in 16 iterations and 4.68 seconds
+Optimal objective  3.032221388e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9811 rows, 9881 columns and 100707 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.0322214e+00   0.000000e+00   0.000000e+00      3s
+      18    3.1745417e+00   0.000000e+00   0.000000e+00      6s
+
+Solved in 18 iterations and 5.97 seconds
+Optimal objective  3.174541746e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9812 rows, 9881 columns and 100724 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.1745417e+00   0.000000e+00   0.000000e+00      2s
+      17    3.3114246e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 17 iterations and 4.07 seconds
+Optimal objective  3.311424553e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9813 rows, 9881 columns and 100749 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.3114246e+00   0.000000e+00   0.000000e+00      3s
+      14    3.4414908e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 14 iterations and 4.43 seconds
+Optimal objective  3.441490763e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9814 rows, 9881 columns and 100780 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.4414908e+00   0.000000e+00   0.000000e+00      3s
+      15    3.5657020e+00   0.000000e+00   0.000000e+00      6s
+
+Solved in 15 iterations and 5.60 seconds
+Optimal objective  3.565702039e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9815 rows, 9881 columns and 100815 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.5657020e+00   0.000000e+00   0.000000e+00      6s
+      16    3.7329554e+00   0.000000e+00   0.000000e+00      8s
+
+Solved in 16 iterations and 7.62 seconds
+Optimal objective  3.732955420e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9816 rows, 9881 columns and 100842 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.7329554e+00   0.000000e+00   0.000000e+00      3s
+      15    3.8568737e+00   0.000000e+00   0.000000e+00      5s
+
+Solved in 15 iterations and 5.29 seconds
+Optimal objective  3.856873734e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9817 rows, 9881 columns and 100875 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.8568737e+00   0.000000e+00   0.000000e+00      4s
+      20    4.0280284e+00   0.000000e+00   0.000000e+00      7s
+
+Solved in 20 iterations and 6.69 seconds
+Optimal objective  4.028028436e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9818 rows, 9881 columns and 100910 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.0280284e+00   0.000000e+00   0.000000e+00      4s
+      13    4.1061675e+00   0.000000e+00   0.000000e+00      8s
+
+Solved in 13 iterations and 8.10 seconds
+Optimal objective  4.106167501e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9819 rows, 9881 columns and 100945 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.1061675e+00   0.000000e+00   0.000000e+00      5s
+      11    4.1809876e+00   0.000000e+00   0.000000e+00      7s
+
+Solved in 11 iterations and 7.37 seconds
+Optimal objective  4.180987616e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9820 rows, 9881 columns and 100978 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.1809876e+00   0.000000e+00   0.000000e+00      7s
+      10    4.2062775e+00   0.000000e+00   0.000000e+00      9s
+
+Solved in 10 iterations and 9.26 seconds
+Optimal objective  4.206277533e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9821 rows, 9881 columns and 101003 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.2062775e+00   0.000000e+00   0.000000e+00      7s
+      14    4.2867158e+00   0.000000e+00   0.000000e+00      9s
+
+Solved in 14 iterations and 9.35 seconds
+Optimal objective  4.286715793e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9822 rows, 9881 columns and 101034 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.2867158e+00   0.000000e+00   0.000000e+00      4s
+      14    4.3782794e+00   0.000000e+00   0.000000e+00      8s
+
+Solved in 14 iterations and 8.35 seconds
+Optimal objective  4.378279409e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9823 rows, 9881 columns and 101069 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.3782794e+00   0.000000e+00   0.000000e+00      4s
+      18    4.6103390e+00   0.000000e+00   0.000000e+00      7s
+
+Solved in 18 iterations and 6.70 seconds
+Optimal objective  4.610339015e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9824 rows, 9881 columns and 101106 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.6103390e+00   0.000000e+00   0.000000e+00      7s
+      16    4.8355917e+00   0.000000e+00   0.000000e+00     12s
+
+Solved in 16 iterations and 11.55 seconds
+Optimal objective  4.835591739e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9825 rows, 9881 columns and 101141 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.8355917e+00   0.000000e+00   0.000000e+00      2s
+      12    4.9436396e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 12 iterations and 3.38 seconds
+Optimal objective  4.943639581e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9826 rows, 9881 columns and 101172 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.9436396e+00   0.000000e+00   0.000000e+00      2s
+      14    5.0120493e+00   0.000000e+00   0.000000e+00      5s
+
+Solved in 14 iterations and 4.67 seconds
+Optimal objective  5.012049285e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9827 rows, 9881 columns and 101209 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    5.0120493e+00   0.000000e+00   0.000000e+00      2s
+      13    5.0560830e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 13 iterations and 3.40 seconds
+Optimal objective  5.056082954e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9828 rows, 9881 columns and 101234 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    5.0560830e+00   0.000000e+00   0.000000e+00      2s
+      16    5.1380822e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 16 iterations and 3.91 seconds
+Optimal objective  5.138082198e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9829 rows, 9881 columns and 101271 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    5.1380822e+00   0.000000e+00   0.000000e+00      2s
+      19    5.2264163e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 19 iterations and 2.86 seconds
+Optimal objective  5.226416300e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9830 rows, 9881 columns and 101310 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    5.2264163e+00   0.000000e+00   0.000000e+00      2s
+      17    5.3209149e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 17 iterations and 3.41 seconds
+Optimal objective  5.320914865e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9831 rows, 9881 columns and 101345 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    5.3209149e+00   0.000000e+00   0.000000e+00      2s
+      22    5.4458694e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 22 iterations and 3.08 seconds
+Optimal objective  5.445869402e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9832 rows, 9881 columns and 101380 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    5.4458694e+00   0.000000e+00   0.000000e+00      2s
+      16    5.5043186e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 16 iterations and 3.11 seconds
+Optimal objective  5.504318621e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9833 rows, 9881 columns and 101413 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    5.5043186e+00   0.000000e+00   0.000000e+00      2s
+      22    5.6208013e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 22 iterations and 3.33 seconds
+Optimal objective  5.620801345e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9834 rows, 9881 columns and 101456 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    5.6208013e+00   0.000000e+00   0.000000e+00      1s
+      21    5.7242575e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 21 iterations and 2.81 seconds
+Optimal objective  5.724257459e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9835 rows, 9881 columns and 101491 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    5.7242575e+00   0.000000e+00   0.000000e+00      2s
+      18    5.7788326e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 18 iterations and 3.36 seconds
+Optimal objective  5.778832608e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9836 rows, 9881 columns and 101534 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    5.7788326e+00   0.000000e+00   0.000000e+00      2s
+      17    5.8298295e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 17 iterations and 3.52 seconds
+Optimal objective  5.829829528e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9837 rows, 9881 columns and 101575 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    5.8298295e+00   0.000000e+00   0.000000e+00      2s
+      23    5.9140825e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 23 iterations and 3.08 seconds
+Optimal objective  5.914082457e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9838 rows, 9881 columns and 101608 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    5.9140825e+00   0.000000e+00   0.000000e+00      2s
+      23    6.0081754e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 23 iterations and 3.32 seconds
+Optimal objective  6.008175436e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9839 rows, 9881 columns and 101649 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.0081754e+00   0.000000e+00   0.000000e+00      2s
+      17    6.0778674e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 17 iterations and 3.25 seconds
+Optimal objective  6.077867409e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9840 rows, 9881 columns and 101694 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.0778674e+00   0.000000e+00   0.000000e+00      2s
+      25    6.1414986e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 25 iterations and 4.44 seconds
+Optimal objective  6.141498563e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9841 rows, 9881 columns and 101739 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.1414986e+00   0.000000e+00   0.000000e+00      2s
+      24    6.2326288e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 24 iterations and 3.65 seconds
+Optimal objective  6.232628789e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9842 rows, 9881 columns and 101776 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.2326288e+00   0.000000e+00   0.000000e+00      2s
+      21    6.3054038e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 21 iterations and 3.74 seconds
+Optimal objective  6.305403850e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9843 rows, 9881 columns and 101825 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.3054038e+00   0.000000e+00   0.000000e+00      2s
+      14    6.3394659e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 14 iterations and 3.31 seconds
+Optimal objective  6.339465935e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9844 rows, 9881 columns and 101862 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.3394659e+00   0.000000e+00   0.000000e+00      2s
+      29    6.3859403e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 29 iterations and 3.33 seconds
+Optimal objective  6.385940287e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9845 rows, 9881 columns and 101899 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.3859403e+00   0.000000e+00   0.000000e+00      2s
+      13    6.4284654e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 13 iterations and 3.87 seconds
+Optimal objective  6.428465397e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9846 rows, 9881 columns and 101934 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.4284654e+00   0.000000e+00   0.000000e+00      2s
+      17    6.4907669e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 17 iterations and 3.35 seconds
+Optimal objective  6.490766859e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9847 rows, 9881 columns and 101977 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.4907669e+00   0.000000e+00   0.000000e+00      2s
+      16    6.5559151e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 16 iterations and 3.47 seconds
+Optimal objective  6.555915148e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9848 rows, 9881 columns and 102020 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.5559151e+00   0.000000e+00   0.000000e+00      2s
+      22    6.5917766e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 22 iterations and 4.50 seconds
+Optimal objective  6.591776645e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9849 rows, 9881 columns and 102069 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.5917766e+00   0.000000e+00   0.000000e+00      2s
+      18    6.6472655e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 18 iterations and 3.58 seconds
+Optimal objective  6.647265509e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9850 rows, 9881 columns and 102108 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.6472655e+00   0.000000e+00   0.000000e+00      2s
+      22    6.7327116e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 22 iterations and 3.53 seconds
+Optimal objective  6.732711566e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9851 rows, 9881 columns and 102153 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.7327116e+00   0.000000e+00   0.000000e+00      2s
+      20    6.8252526e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 20 iterations and 3.19 seconds
+Optimal objective  6.825252586e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9852 rows, 9881 columns and 102190 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.8252526e+00   0.000000e+00   0.000000e+00      2s
+      18    6.8644671e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 18 iterations and 3.00 seconds
+Optimal objective  6.864467116e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9853 rows, 9881 columns and 102233 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.8644671e+00   0.000000e+00   0.000000e+00      1s
+      16    6.9039441e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 16 iterations and 3.10 seconds
+Optimal objective  6.903944125e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9854 rows, 9881 columns and 102280 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.9039441e+00   0.000000e+00   0.000000e+00      2s
+      17    6.9268311e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 17 iterations and 3.20 seconds
+Optimal objective  6.926831098e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9855 rows, 9881 columns and 102313 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.9268311e+00   0.000000e+00   0.000000e+00      2s
+      23    6.9634432e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 23 iterations and 3.92 seconds
+Optimal objective  6.963443223e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9856 rows, 9881 columns and 102354 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.9634432e+00   0.000000e+00   0.000000e+00      2s
+      16    6.9997216e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 16 iterations and 3.21 seconds
+Optimal objective  6.999721571e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9857 rows, 9881 columns and 102405 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.9997216e+00   0.000000e+00   0.000000e+00      2s
+      16    7.0227832e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 16 iterations and 3.41 seconds
+Optimal objective  7.022783195e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9858 rows, 9881 columns and 102444 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.0227832e+00   0.000000e+00   0.000000e+00      2s
+      12    7.0412249e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 12 iterations and 3.49 seconds
+Optimal objective  7.041224880e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9859 rows, 9881 columns and 102479 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.0412249e+00   0.000000e+00   0.000000e+00      2s
+       9    7.0586925e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 9 iterations and 3.91 seconds
+Optimal objective  7.058692541e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9860 rows, 9881 columns and 102510 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.0586925e+00   0.000000e+00   0.000000e+00      2s
+      12    7.0823607e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 12 iterations and 4.07 seconds
+Optimal objective  7.082360697e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9861 rows, 9881 columns and 102549 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.0823607e+00   0.000000e+00   0.000000e+00      2s
+      14    7.1033601e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 14 iterations and 4.40 seconds
+Optimal objective  7.103360123e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9862 rows, 9881 columns and 102590 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.1033601e+00   0.000000e+00   0.000000e+00      2s
+      17    7.1385758e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 17 iterations and 3.88 seconds
+Optimal objective  7.138575842e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9863 rows, 9881 columns and 102625 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.1385758e+00   0.000000e+00   0.000000e+00      2s
+      13    7.1674581e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 13 iterations and 3.73 seconds
+Optimal objective  7.167458119e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9864 rows, 9881 columns and 102658 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.1674581e+00   0.000000e+00   0.000000e+00      2s
+       8    7.1955974e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 8 iterations and 3.27 seconds
+Optimal objective  7.195597379e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9865 rows, 9881 columns and 102699 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.1955974e+00   0.000000e+00   0.000000e+00      2s
+      14    7.2148750e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 14 iterations and 3.49 seconds
+Optimal objective  7.214874982e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9866 rows, 9881 columns and 102738 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.2148750e+00   0.000000e+00   0.000000e+00      2s
+      11    7.2291829e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 11 iterations and 3.43 seconds
+Optimal objective  7.229182893e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9867 rows, 9881 columns and 102781 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.2291829e+00   0.000000e+00   0.000000e+00      2s
+       8    7.2414708e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 8 iterations and 3.70 seconds
+Optimal objective  7.241470780e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9868 rows, 9881 columns and 102810 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.2414708e+00   0.000000e+00   0.000000e+00      2s
+      19    7.2878315e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 19 iterations and 4.03 seconds
+Optimal objective  7.287831530e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9869 rows, 9881 columns and 102847 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.2878315e+00   0.000000e+00   0.000000e+00      2s
+      12    7.3046258e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 12 iterations and 3.74 seconds
+Optimal objective  7.304625768e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9870 rows, 9881 columns and 102880 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.3046258e+00   0.000000e+00   0.000000e+00      2s
+      12    7.3267759e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 12 iterations and 3.43 seconds
+Optimal objective  7.326775947e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9871 rows, 9881 columns and 102921 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.3267759e+00   0.000000e+00   0.000000e+00      2s
+      15    7.3755656e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 15 iterations and 3.34 seconds
+Optimal objective  7.375565556e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9872 rows, 9881 columns and 102964 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.3755656e+00   0.000000e+00   0.000000e+00      2s
+      16    7.4116712e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 16 iterations and 3.90 seconds
+Optimal objective  7.411671183e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9873 rows, 9881 columns and 103003 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.4116712e+00   0.000000e+00   0.000000e+00      2s
+      14    7.4295546e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 14 iterations and 3.36 seconds
+Optimal objective  7.429554641e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9874 rows, 9881 columns and 103044 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.4295546e+00   0.000000e+00   0.000000e+00      2s
+      18    7.4489454e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 18 iterations and 3.26 seconds
+Optimal objective  7.448945414e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9875 rows, 9881 columns and 103081 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.4489454e+00   0.000000e+00   0.000000e+00      2s
+      13    7.4701293e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 13 iterations and 3.82 seconds
+Optimal objective  7.470129293e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9876 rows, 9881 columns and 103114 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.4701293e+00   0.000000e+00   0.000000e+00      2s
+      18    7.4994517e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 18 iterations and 3.62 seconds
+Optimal objective  7.499451668e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9877 rows, 9881 columns and 103151 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.4994517e+00   0.000000e+00   0.000000e+00      2s
+      17    7.5167143e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 17 iterations and 3.45 seconds
+Optimal objective  7.516714267e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9878 rows, 9881 columns and 103192 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.5167143e+00   0.000000e+00   0.000000e+00      2s
+      16    7.5351089e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 16 iterations and 4.07 seconds
+Optimal objective  7.535108913e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9879 rows, 9881 columns and 103229 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.5351089e+00   0.000000e+00   0.000000e+00      2s
+      24    7.5546691e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 24 iterations and 3.60 seconds
+Optimal objective  7.554669102e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9880 rows, 9881 columns and 103272 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.5546691e+00   0.000000e+00   0.000000e+00      2s
+      13    7.5654224e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 13 iterations and 3.73 seconds
+Optimal objective  7.565422368e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9881 rows, 9881 columns and 103305 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.5654224e+00   0.000000e+00   0.000000e+00      2s
+      12    7.5792663e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 12 iterations and 3.46 seconds
+Optimal objective  7.579266318e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9882 rows, 9881 columns and 103340 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.5792663e+00   0.000000e+00   0.000000e+00      2s
+      13    7.6030200e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 13 iterations and 3.58 seconds
+Optimal objective  7.603019972e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9883 rows, 9881 columns and 103373 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.6030200e+00   0.000000e+00   0.000000e+00      2s
+       9    7.6369986e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 9 iterations and 3.76 seconds
+Optimal objective  7.636998590e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9884 rows, 9881 columns and 103410 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.6369986e+00   0.000000e+00   0.000000e+00      2s
+      21    7.6678899e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 21 iterations and 3.37 seconds
+Optimal objective  7.667889894e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9885 rows, 9881 columns and 103443 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.6678899e+00   0.000000e+00   0.000000e+00      2s
+      22    7.6961058e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 22 iterations and 3.77 seconds
+Optimal objective  7.696105765e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9886 rows, 9881 columns and 103478 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.6961058e+00   0.000000e+00   0.000000e+00      2s
+      15    7.7152708e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 15 iterations and 3.40 seconds
+Optimal objective  7.715270782e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9887 rows, 9881 columns and 103513 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.7152708e+00   0.000000e+00   0.000000e+00      2s
+      12    7.7333299e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 12 iterations and 3.40 seconds
+Optimal objective  7.733329940e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9888 rows, 9881 columns and 103548 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.7333299e+00   0.000000e+00   0.000000e+00      2s
+      13    7.7439668e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 13 iterations and 3.49 seconds
+Optimal objective  7.743966763e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9889 rows, 9881 columns and 103591 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.7439668e+00   0.000000e+00   0.000000e+00      2s
+      17    7.7579557e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 17 iterations and 3.78 seconds
+Optimal objective  7.757955685e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9890 rows, 9881 columns and 103624 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.7579557e+00   0.000000e+00   0.000000e+00      2s
+      12    7.7703997e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 12 iterations and 3.63 seconds
+Optimal objective  7.770399688e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9891 rows, 9881 columns and 103657 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.7703997e+00   0.000000e+00   0.000000e+00      2s
+      16    7.7821746e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 16 iterations and 3.77 seconds
+Optimal objective  7.782174591e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9892 rows, 9881 columns and 103688 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.7821746e+00   0.000000e+00   0.000000e+00      2s
+      13    7.7900098e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 13 iterations and 3.49 seconds
+Optimal objective  7.790009763e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9893 rows, 9881 columns and 103715 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.7900098e+00   0.000000e+00   0.000000e+00      2s
+      22    7.8283725e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 22 iterations and 3.71 seconds
+Optimal objective  7.828372504e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9894 rows, 9881 columns and 103760 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.8283725e+00   0.000000e+00   0.000000e+00      2s
+      13    7.8511753e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 13 iterations and 3.26 seconds
+Optimal objective  7.851175284e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9895 rows, 9881 columns and 103793 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.8511753e+00   0.000000e+00   0.000000e+00      2s
+      24    7.8770007e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 24 iterations and 3.77 seconds
+Optimal objective  7.877000722e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9896 rows, 9881 columns and 103832 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.8770007e+00   0.000000e+00   0.000000e+00      2s
+      16    7.8857560e+00   0.000000e+00   0.000000e+00      5s
+
+Solved in 16 iterations and 4.74 seconds
+Optimal objective  7.885756027e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9897 rows, 9881 columns and 103865 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.8857560e+00   0.000000e+00   0.000000e+00      2s
+      28    7.9223715e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 28 iterations and 3.56 seconds
+Optimal objective  7.922371511e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9898 rows, 9881 columns and 103904 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.9223715e+00   0.000000e+00   0.000000e+00      2s
+      16    7.9331254e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 16 iterations and 4.15 seconds
+Optimal objective  7.933125397e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9899 rows, 9881 columns and 103941 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.9331254e+00   0.000000e+00   0.000000e+00      2s
+      11    7.9386833e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 11 iterations and 3.58 seconds
+Optimal objective  7.938683328e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9900 rows, 9881 columns and 103970 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.9386833e+00   0.000000e+00   0.000000e+00      2s
+      11    7.9507121e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 11 iterations and 3.67 seconds
+Optimal objective  7.950712084e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9901 rows, 9881 columns and 104003 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.9507121e+00   0.000000e+00   0.000000e+00      2s
+      20    7.9945210e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 20 iterations and 3.74 seconds
+Optimal objective  7.994521029e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9902 rows, 9881 columns and 104044 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.9945210e+00   0.000000e+00   0.000000e+00      2s
+       7    8.0065342e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 7 iterations and 3.41 seconds
+Optimal objective  8.006534183e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9903 rows, 9881 columns and 104071 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.0065342e+00   0.000000e+00   0.000000e+00      3s
+      18    8.0271053e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 18 iterations and 4.40 seconds
+Optimal objective  8.027105266e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9904 rows, 9881 columns and 104102 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.0271053e+00   0.000000e+00   0.000000e+00      2s
+      13    8.0394466e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 13 iterations and 3.79 seconds
+Optimal objective  8.039446640e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9905 rows, 9881 columns and 104135 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.0394466e+00   0.000000e+00   0.000000e+00      2s
+       9    8.0573643e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 9 iterations and 3.37 seconds
+Optimal objective  8.057364262e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9906 rows, 9881 columns and 104168 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.0573643e+00   0.000000e+00   0.000000e+00      2s
+      12    8.0729015e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 12 iterations and 3.36 seconds
+Optimal objective  8.072901510e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9907 rows, 9881 columns and 104199 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.0729015e+00   0.000000e+00   0.000000e+00      2s
+      10    8.0836986e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 10 iterations and 3.52 seconds
+Optimal objective  8.083698603e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9908 rows, 9881 columns and 104228 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.0836986e+00   0.000000e+00   0.000000e+00      2s
+      12    8.1055054e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 12 iterations and 3.38 seconds
+Optimal objective  8.105505400e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9909 rows, 9881 columns and 104265 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.1055054e+00   0.000000e+00   0.000000e+00      2s
+      20    8.1232296e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 20 iterations and 3.11 seconds
+Optimal objective  8.123229621e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9910 rows, 9881 columns and 104304 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.1232296e+00   0.000000e+00   0.000000e+00      2s
+      18    8.1397985e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 18 iterations and 3.48 seconds
+Optimal objective  8.139798534e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9911 rows, 9881 columns and 104335 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.1397985e+00   0.000000e+00   0.000000e+00      2s
+      12    8.1514437e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 12 iterations and 3.62 seconds
+Optimal objective  8.151443713e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9912 rows, 9881 columns and 104368 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.1514437e+00   0.000000e+00   0.000000e+00      2s
+      16    8.1689587e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 16 iterations and 3.27 seconds
+Optimal objective  8.168958743e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9913 rows, 9881 columns and 104403 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.1689587e+00   0.000000e+00   0.000000e+00      2s
+      18    8.1794403e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 18 iterations and 3.56 seconds
+Optimal objective  8.179440349e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9914 rows, 9881 columns and 104434 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.1794403e+00   0.000000e+00   0.000000e+00      2s
+      20    8.1952005e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 20 iterations and 3.26 seconds
+Optimal objective  8.195200515e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9915 rows, 9881 columns and 104471 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.1952005e+00   0.000000e+00   0.000000e+00      2s
+      24    8.2117022e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 24 iterations and 3.31 seconds
+Optimal objective  8.211702161e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9916 rows, 9881 columns and 104508 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.2117022e+00   0.000000e+00   0.000000e+00      2s
+      19    8.2188043e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 19 iterations and 3.39 seconds
+Optimal objective  8.218804254e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9917 rows, 9881 columns and 104543 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.2188043e+00   0.000000e+00   0.000000e+00      2s
+      16    8.2248246e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 16 iterations and 3.56 seconds
+Optimal objective  8.224824586e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9918 rows, 9881 columns and 104578 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.2248246e+00   0.000000e+00   0.000000e+00      2s
+      16    8.2357841e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 16 iterations and 3.74 seconds
+Optimal objective  8.235784102e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9919 rows, 9881 columns and 104615 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.2357841e+00   0.000000e+00   0.000000e+00      2s
+      11    8.2434946e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 11 iterations and 3.39 seconds
+Optimal objective  8.243494566e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9920 rows, 9881 columns and 104642 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.2434946e+00   0.000000e+00   0.000000e+00      2s
+      23    8.2570626e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 23 iterations and 3.84 seconds
+Optimal objective  8.257062587e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9921 rows, 9881 columns and 104675 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.2570626e+00   0.000000e+00   0.000000e+00      2s
+      18    8.2678445e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 18 iterations and 3.38 seconds
+Optimal objective  8.267844544e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9922 rows, 9881 columns and 104708 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.2678445e+00   0.000000e+00   0.000000e+00      2s
+      20    8.2838357e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 20 iterations and 3.34 seconds
+Optimal objective  8.283835710e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9923 rows, 9881 columns and 104737 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.2838357e+00   0.000000e+00   0.000000e+00      2s
+      18    8.2953245e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 18 iterations and 3.45 seconds
+Optimal objective  8.295324471e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9924 rows, 9881 columns and 104778 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.2953245e+00   0.000000e+00   0.000000e+00      2s
+      12    8.3035459e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 12 iterations and 3.31 seconds
+Optimal objective  8.303545879e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9925 rows, 9881 columns and 104821 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.3035459e+00   0.000000e+00   0.000000e+00      2s
+      18    8.3131663e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 18 iterations and 3.36 seconds
+Optimal objective  8.313166308e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9926 rows, 9881 columns and 104856 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.3131663e+00   0.000000e+00   0.000000e+00      2s
+      26    8.3264322e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 26 iterations and 3.24 seconds
+Optimal objective  8.326432239e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9927 rows, 9881 columns and 104887 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.3264322e+00   0.000000e+00   0.000000e+00      2s
+      27    8.3398520e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 27 iterations and 3.35 seconds
+Optimal objective  8.339851986e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9928 rows, 9881 columns and 104922 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.3398520e+00   0.000000e+00   0.000000e+00      2s
+      18    8.3488723e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 18 iterations and 3.72 seconds
+Optimal objective  8.348872284e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9929 rows, 9881 columns and 104951 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.3488723e+00   0.000000e+00   0.000000e+00      2s
+      22    8.3584244e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 22 iterations and 3.43 seconds
+Optimal objective  8.358424438e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9930 rows, 9881 columns and 104982 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.3584244e+00   0.000000e+00   0.000000e+00      2s
+      27    8.3691769e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 27 iterations and 3.49 seconds
+Optimal objective  8.369176940e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9931 rows, 9881 columns and 105011 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.3691769e+00   0.000000e+00   0.000000e+00      2s
+      20    8.3875430e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 20 iterations and 3.14 seconds
+Optimal objective  8.387543014e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9932 rows, 9881 columns and 105050 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.3875430e+00   0.000000e+00   0.000000e+00      2s
+      19    8.3982789e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 19 iterations and 3.18 seconds
+Optimal objective  8.398278950e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9933 rows, 9881 columns and 105081 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.3982789e+00   0.000000e+00   0.000000e+00      2s
+      13    8.4037325e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 13 iterations and 3.35 seconds
+Optimal objective  8.403732472e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9934 rows, 9881 columns and 105114 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.4037325e+00   0.000000e+00   0.000000e+00      2s
+      22    8.4187668e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 22 iterations and 3.25 seconds
+Optimal objective  8.418766756e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9935 rows, 9881 columns and 105151 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.4187668e+00   0.000000e+00   0.000000e+00      2s
+      15    8.4285083e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 15 iterations and 3.16 seconds
+Optimal objective  8.428508336e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9936 rows, 9881 columns and 105176 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.4285083e+00   0.000000e+00   0.000000e+00      2s
+      21    8.4366122e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 21 iterations and 3.21 seconds
+Optimal objective  8.436612173e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9937 rows, 9881 columns and 105203 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.4366122e+00   0.000000e+00   0.000000e+00      2s
+      26    8.4478351e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 26 iterations and 3.15 seconds
+Optimal objective  8.447835080e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9938 rows, 9881 columns and 105238 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.4478351e+00   0.000000e+00   0.000000e+00      2s
+      17    8.4550520e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 17 iterations and 3.96 seconds
+Optimal objective  8.455051951e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9939 rows, 9881 columns and 105261 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.4550520e+00   0.000000e+00   0.000000e+00      2s
+      11    8.4653327e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 11 iterations and 3.23 seconds
+Optimal objective  8.465332750e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9940 rows, 9881 columns and 105288 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.4653327e+00   0.000000e+00   0.000000e+00      2s
+      13    8.4718103e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 13 iterations and 3.23 seconds
+Optimal objective  8.471810331e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9941 rows, 9881 columns and 105321 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.4718103e+00   0.000000e+00   0.000000e+00      2s
+      19    8.4805905e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 19 iterations and 3.23 seconds
+Optimal objective  8.480590479e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9942 rows, 9881 columns and 105352 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.4805905e+00   0.000000e+00   0.000000e+00      2s
+      19    8.4867284e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 19 iterations and 3.45 seconds
+Optimal objective  8.486728388e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9943 rows, 9881 columns and 105385 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.4867284e+00   0.000000e+00   0.000000e+00      2s
+      15    8.4921917e+00   0.000000e+00   0.000000e+00      3s
+
+Solved in 15 iterations and 3.08 seconds
+Optimal objective  8.492191704e+00
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 9944 rows, 9881 columns and 105412 nonzeros
+Model has 96601 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [8e-04, 1e+00]
+  Objective range  [4e-37, 5e-03]
+  QObjective range [3e-06, 8e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.4921917e+00   0.000000e+00   0.000000e+00      2s
+       8    8.4967109e+00   0.000000e+00   0.000000e+00      4s
+
+Solved in 8 iterations and 3.57 seconds
+Optimal objective  8.496710904e+00

@@ -1,0 +1,38 @@
+Gurobi 9.1.2 (linux64) logging started Thu Mar  3 14:01:12 2022
+
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 10575 rows, 10575 columns and 120530 nonzeros
+Model fingerprint: 0x296690b3
+Model has 106041 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [4e-04, 1e+00]
+  Objective range  [5e-38, 4e-03]
+  QObjective range [3e-06, 7e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e+00, 2e+00]
+Presolve removed 2656 rows and 2656 columns
+Presolve time: 0.95s
+Presolved: 7919 rows, 7919 columns, 107812 nonzeros
+Presolved model has 78378 quadratic objective terms
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.3607902e+01   0.000000e+00   3.162539e+02      1s
+Warning: Markowitz tolerance tightened to 0.25
+    6238    1.7744611e+01   0.000000e+00   9.030265e+02      6s
+    7866    1.7743990e+01   0.000000e+00   1.242567e+03     11s
+    9233    1.3500034e+01   0.000000e+00   6.126421e+02     17s
+   10063    1.3500034e+01   0.000000e+00   5.987067e+02     21s
+   11247    1.3500034e+01   0.000000e+00   7.603693e+02     26s
+   12003    1.3500034e+01   0.000000e+00   6.829257e+02     31s
+   12663    1.3500034e+01   0.000000e+00   9.185635e+02     36s
+   13299    1.3500034e+01   0.000000e+00   6.227815e+02     40s
+   13977    1.3500034e+01   0.000000e+00   6.994847e+02     45s
+   14633    1.3500034e+01   0.000000e+00   9.521242e+02     50s
+   15204    1.3500034e+01   0.000000e+00   5.028059e+02     57s
+   15449    1.3500034e+01   0.000000e+00   1.268985e+03     60s
+   15818    7.4837383e+00   0.000000e+00   0.000000e+00     67s
+   15818    7.4837383e+00   0.000000e+00   0.000000e+00     72s
+
+Solved in 15818 iterations and 71.86 seconds
+Optimal objective  7.483738315e+00

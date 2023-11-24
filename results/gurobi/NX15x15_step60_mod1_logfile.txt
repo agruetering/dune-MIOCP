@@ -1,0 +1,58 @@
+
+Gurobi 9.1.2 (linux64) logging started Thu Mar  3 14:20:56 2022
+
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+Optimize a model with 15735 rows, 15735 columns and 180670 nonzeros
+Model fingerprint: 0xe796cc1e
+Model has 158581 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [4e-04, 1e+00]
+  Objective range  [5e-23, 3e-03]
+  QObjective range [2e-06, 5e-05]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e+00, 2e+00]
+Presolve removed 3856 rows and 3856 columns
+Presolve time: 1.42s
+Presolved: 11879 rows, 11879 columns, 162352 nonzeros
+Presolved model has 118198 quadratic objective terms
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.3836280e+01   0.000000e+00   6.223540e+02      1s
+Warning: Markowitz tolerance tightened to 0.125
+Warning: Markowitz tolerance tightened to 0.5
+    5156    2.3836279e+01   0.000000e+00   5.682233e+05      6s
+    7180    2.1741552e+01   0.000000e+00   1.068609e+05     11s
+    8788    2.1741541e+01   0.000000e+00   9.577386e+05     16s
+   10238    1.8217957e+01   0.000000e+00   9.037763e+02     22s
+   11492    1.8217957e+01   0.000000e+00   1.126093e+03     26s
+   12646    1.8217957e+01   0.000000e+00   1.608909e+03     31s
+   13726    1.8217957e+01   0.000000e+00   1.229140e+03     36s
+   14756    1.8217957e+01   0.000000e+00   1.385199e+03     41s
+   15694    1.8217957e+01   0.000000e+00   1.213918e+03     47s
+   16172    1.8217957e+01   0.000000e+00   1.338599e+03     50s
+   17082    1.8217957e+01   0.000000e+00   1.387377e+03     57s
+   17508    1.8217957e+01   0.000000e+00   1.457544e+03     60s
+   18342    1.8217957e+01   0.000000e+00   2.048210e+03     67s
+   18668    1.8217957e+01   0.000000e+00   2.839430e+03     71s
+   18988    1.8217957e+01   0.000000e+00   3.014297e+03     76s
+   19332    1.8217957e+01   0.000000e+00   3.153811e+03     81s
+   19642    1.8217957e+01   0.000000e+00   4.213589e+03     86s
+   19958    1.8217957e+01   0.000000e+00   4.615707e+03     91s
+   20300    1.8217957e+01   0.000000e+00   6.626152e+03     97s
+   20595    1.1824923e+01   0.000000e+00   2.617931e+02    103s
+   20881    1.1824968e+01   0.000000e+00   2.686380e+02    110s
+   21192    1.1824893e+01   0.000000e+00   5.293601e+02    116s
+   21448    1.1824820e+01   0.000000e+00   6.795696e+02    121s
+   21698    1.1824784e+01   0.000000e+00   5.815355e+02    126s
+   21966    1.1824787e+01   0.000000e+00   9.643071e+02    132s
+   22290    1.1824768e+01   0.000000e+00   9.333737e+02    137s
+   22603    1.1824735e+01   0.000000e+00   4.663156e+02    142s
+   22913    1.1824718e+01   0.000000e+00   5.391241e+02    148s
+   23240    1.1824696e+01   0.000000e+00   1.196516e+03    153s
+   23576    1.1824813e+01   0.000000e+00   1.994018e+03    159s
+   23729    7.3445990e+00   0.000000e+00   0.000000e+00    164s
+   23734    7.3530521e+00   0.000000e+00   0.000000e+00    174s
+
+Solved in 23734 iterations and 173.94 seconds
+Optimal objective  7.353052105e+00
