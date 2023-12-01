@@ -12,7 +12,7 @@ Dependencies
 The currect development version of dune-MIOCP depends on the following software: 
 
 * PDELab library [5], the needed core libraries (dune-common, dune-geometry, dune-grid, dune-istl, dune-localfunctions) [4] 
-* and the extension libraries (dune-functions, dune-typetree) [6]; all in version 2.7.0.  
+  and the extension libraries (dune-functions, dune-typetree) [6]; all in version 2.7.0.  
 * The dune-uggrid module (release/2.7.0) [7]. 
 * Gurobi 9.1.2 [9]
 * A compiler with support for C++17, at least GCC >= 7.1 or clang >= 5.0 
