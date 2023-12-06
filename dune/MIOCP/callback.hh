@@ -1,3 +1,6 @@
+// Copyright © Alexandra Grütering, see file LICENSE.md in module root
+// License: GLP-3.0 or later
+
 #ifndef CALLBACK_HH
 #define CALLBACK_HH
 #include <gurobi_c++.h>
