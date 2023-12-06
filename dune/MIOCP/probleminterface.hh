@@ -1,3 +1,5 @@
+// Copyright © Alexandra Grütering, see file LICENSE.md in module root
+// License: GLP-3.0 or later
 #ifndef PROBLEMINTERFACE_HH
 #define PROBLEMINTERFACE_HH
 
