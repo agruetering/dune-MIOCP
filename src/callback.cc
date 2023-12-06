@@ -1,3 +1,5 @@
+// Copyright © Alexandra Grütering, see file LICENSE.md in module root
+// License: GLP-3.0 or later
 #include <dune/MIOCP/callback.hh>
 #include <dune/MIOCP/Dmax.hh>
 
