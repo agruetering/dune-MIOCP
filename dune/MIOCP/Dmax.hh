@@ -1,3 +1,6 @@
+// Copyright © Alexandra Grütering, see file LICENSE.md in module root
+// License: GLP-3.0 or later
+
 #include <dune/MIOCP/switchconstr.hh> 
 
 /* switching interface for an upper bound on the number of switchings for a single switch*/
