@@ -1,3 +1,6 @@
+// Copyright © Alexandra Grütering, see file LICENSE.md in module root
+// License: GLP-3.0 or later
+
 #ifndef ACTIVE_SET_HH
 #define ACTIVE_SET_HH
 
