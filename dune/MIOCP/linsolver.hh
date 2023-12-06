@@ -1,3 +1,5 @@
+// Copyright © Alexandra Grütering, see file LICENSE.md in module root
+// License: GLP-3.0 or later
 // dune istl includes
 #include <dune/istl/operators.hh> 
 #include<dune/istl/vbvector.hh>
