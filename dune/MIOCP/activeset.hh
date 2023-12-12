@@ -211,9 +211,25 @@ Result & result ) const //storage of results
 		for(auto const& p: I) 
 			cout << "("<< p.first << "," << p.second << ")" << endl;
 #endif		
-		
-		// CG method 
-		solve(A_minus,A_plus,I,u,result);
+		if (I.size()>0){
+			// CG method 
+			solve(A_minus,A_plus,I,u,result);
+		}
+		else{
+			// auxiliary variable to save boundary values of active indices
+			ControlVector h(dt.size());
+			for (auto const& p : A_minus){
+				double time=accumulate(dt.begin(),dt.begin()+p.first+1,0.0);
+				h[p.first][p.second]=heat.ua(time)[p.second]; 
+			}
+    			for (auto const& p : A_plus){
+				double time=accumulate(dt.begin(),dt.begin()+p.first+1,0.0);
+				h[p.first][p.second]=heat.ub(time)[p.second]; 
+			}
+
+			// new control 
+			u=h;
+		}
 
 		
 		// accept step
